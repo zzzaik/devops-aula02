@@ -1,11 +1,5 @@
-# devops-aula02
+# Atores/Atrizes
 
-Gustavo
-Emma watson
-Tom holland
-Jim Parsons
-
-Ivo
-James spader
-Anthony hopkins
-Simon Baker
+* Emma watson
+* Tom holland
+* Jim Parsons
